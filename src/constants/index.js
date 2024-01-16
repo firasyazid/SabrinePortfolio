@@ -45,11 +45,11 @@ export const navLinks = [
 const services = [
   
   {
-    title: "Création des supports graphique",
+    title: "Création des supports graphiques",
     icon: mobile,
   },
   {
-    title: "Création du contenu pour les réseaux sociaux",
+    title: "Conception de contenus adaptés aux réseaux sociaux",
     icon: backend,
   },
   {
