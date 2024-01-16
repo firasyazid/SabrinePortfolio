@@ -48,9 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
 
-Graphiste et community manager passionné,
-je maîtrise la conception visuelle et la gestion de communauté. Expérimenté avec des outils tels qu'Adobe Creative Suite, je crée des visuels percutants et des identités fortes. En tant que community manager, j'ai développée des communautés en ligne dynamiques. Toujours avide d'apprendre, je collabore étroitement avec les clients pour des solutions visuelles innovantes. Travaillons ensemble pour concrétiser vos idées et renforcer votre présence visuelle !
-
+Graphiste et community manager passionnée, je maîtrise l'art de la conception visuelle et de la gestion de communauté. Forte d'une expérience étendue avec des outils tels que la suite Adobe Creative, je crée des visuels percutants et des identités visuelles puissantes. En tant que community manager, j'ai développé des communautés en ligne dynamiques. Toujours avide d'apprendre, je collabore étroitement avec mes clientes pour élaborer des solutions visuelles innovantes. Travaillons ensemble afin de concrétiser vos idées et de renforcer votre présence visuelle.
 
 
 

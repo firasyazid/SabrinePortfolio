@@ -104,7 +104,7 @@ const experiences = [
     date: "Depuis Septembre 2023",
     points: [
 
-      "En tant que Community Manager , j'essaie d'établir une présence digitale robuste et créer une communauté engagée autour d'une  marque. La formation a été cruciale pour affiner mes compétences en gestion de communauté, élaboration de stratégies de contenu et optimisation de la visibilité en ligne. Ainsi, la fusion de mon expertise graphique et des compétences de community management a tracé la voie vers un avenir prometteur ouvrant la porte à de nouvelles opportunités"
+      "En tant que Community Manager , j'essaie d'établir une présence digitale robuste et créer une communauté engagée autour d'une  marque. La formation a été cruciale pour affiner mes compétences en gestion de communauté, élaboration de stratégies de contenu et optimisation de la visibilité en ligne. Ainsi, la fusion de mon expertise graphique et des compétences de community management a tracé la voie vers un avenir prometteur ouvrant la porte à de nouvelles opportunités ."
        ],
   },
   {
@@ -114,7 +114,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Depuis 2020",
     points: [
-      "Le graphisme est l'art de concevoir des élements visuels tels que les images ,textes, couleurs. Graphiste de métier, je lance mon projet <<Art'emis>> cette marque consiste à créer tout type de support graphique pour les entreprises et les particuliers."
+      "Le graphisme est l'art de concevoir des élements visuels tels que les images ,textes, couleurs. Graphiste de métier, je lance mon projet <<Think Graphic>> cette marque consiste à créer tout type de support graphique pour les entreprises et les particuliers."
        ],
   },
 
