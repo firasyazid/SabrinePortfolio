@@ -20,7 +20,7 @@ const Hero = () => {
 </span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            C'est community manager <br className='sm:block hidden' />
+            Community manager <br className='sm:block hidden' />
                   & designer graphique          </p>
         </div>
       </div>
