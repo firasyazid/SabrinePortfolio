@@ -39,8 +39,7 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Aperçu.</h2>
+         <h2 className={styles.sectionHeadText}>Qui suis-je ?</h2>
       </motion.div>
 
       <motion.p
@@ -55,7 +54,11 @@ Graphiste et community manager passionnée, je maîtrise l'art de la conception 
 
         </motion.p>
 
+       
+        <h2 className={styles.sectionHeadText}>Mes compétences : </h2>
+
       <div className='mt-20 flex flex-wrap gap-10'>
+
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}

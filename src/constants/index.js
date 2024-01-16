@@ -23,7 +23,8 @@ import {
   jobit,
   tripguide,
   rest,
-  fin
+  fin,
+  wab,essted, bac
     
 } from "../assets";
  
@@ -99,7 +100,7 @@ const technologies = [
 const experiences = [
   {
     title: "Formation Community Manager ",
-     icon: starbucks,
+     icon: wab,
     iconBg: "#E6DEDD",
     date: "Depuis Septembre 2023",
     points: [
@@ -131,6 +132,28 @@ const experiences = [
       ],
   },
    
+
+  {
+    title: "Licence Appliquée en Design Image (L3)",
+    company_name: "ESSTD Tunis",
+    icon: essted,
+    iconBg: "#383E56",
+    date: " 2012- 2015  ",
+    points: [
+
+        ],
+  },
+  {
+    title: "Baccalauréat section Informatique",
+    company_name: "Tunis",
+    icon: bac,
+    iconBg: "#383E56",
+    date: " 2012- 2015  ",
+    points: [
+
+        ],
+  },
+
 ];
 
 const testimonials = [

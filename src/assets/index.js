@@ -31,7 +31,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import rest from "./rest.png";
 import fin from "./fin.png";
-
+import wab from "./wab.png"
+import essted from "./essted.png"
+import bac from "./bac.png"
 export {
   logo,
   backend,
@@ -63,4 +65,7 @@ export {
   tripguide,
   rest,
   fin,
+  wab,
+  essted,
+  bac
 };
